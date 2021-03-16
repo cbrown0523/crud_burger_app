@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+li{ list-style: none;;
+
+}
+body{
+  background-image: url("../assets/hamburger.png");
+  background-repeat: no-repeat;
+  background-size:cover;
+  width: 1200px;
+  height:200px;
+  margin-left:200px;
+}
